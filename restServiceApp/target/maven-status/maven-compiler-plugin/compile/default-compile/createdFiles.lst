@@ -1,0 +1,6 @@
+org\rbsg\java\controller\MyController.class
+org\rbsg\java\service\PrimeNumberService.class
+org\rbsg\java\model\PrimesResponse.class
+org\rbsg\java\bean\Country.class
+org\rbsg\java\service\PrimeService.class
+org\rbsg\java\config\AppConfig.class
